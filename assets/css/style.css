@@ -1207,3 +1207,9 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.topmate {
+  width: 22px;
+  height: 22px;
+  margin-top: -6px;
+}
